@@ -1,0 +1,11 @@
+"Biomarker","Clinical_Variable","Test","P_value"
+"miR451a","HER2","Fisher's exact test",1
+"miR486","HER2","Fisher's exact test",0.482758620689655
+"miR451a","PR","Fisher's exact test",0.168582375478928
+"miR486","PR","Fisher's exact test",0.514909212060639
+"miR451a","LVSI","Fisher's exact test",0.597701149425287
+"miR486","LVSI","Fisher's exact test",0.329501915708812
+"miR451a","Lymph_Node_Status","Fisher's exact test",0.263541913253899
+"miR486","Lymph_Node_Status","Fisher's exact test",1
+"miR451a","Tumour_Grade","Chi-square test",0.716531310573789
+"miR486","Tumour_Grade","Chi-square test",0.659292952961653
